@@ -1,21 +1,18 @@
 ---
-title: 'About me'
+title: 'Acerca de Mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de Mí"
 ---
 
-## Who am I
+## Quien soy!!
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Apolinar Fernández, Papá de un niño encantador y Esposo de una linda Mujer.
+> Nací en el Estado de Veracruz, Tengo 39 años. 
+> Actualmente estoy en la Ciudad de Cancún, laboro para una empresa del ramo hotelero. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Ingeniero de Software** Me apasiona la tecnología, soy estudiante de Ingeniería en Sistemas.
+Dentro de mi meta es especializarme en software, Me gusta leer, Escuchar música y disfrutar a mi familia.
 
